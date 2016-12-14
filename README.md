@@ -1,0 +1,1 @@
+# STM32_Qt_QML_Animated_Compass
