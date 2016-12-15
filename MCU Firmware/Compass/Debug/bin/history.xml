@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.7.4 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=Compass.map -O0 --gc-sections -LE:\DUMP\CooCox\CoIDE1\configuration\ProgramData\Compass -TE:\DUMP\CooCox\CoIDE1\configuration\ProgramData\Compass/arm-gcc-link.ld -g">
+      <target file="Compass.elf" lastModified="15904768000">
+         <source file="..\obj\HMC5883L.o" lastModified="15904767060"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="15904767830"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="15904767830"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="15904767830"/>
+         <source file="..\obj\main.o" lastModified="15904767830"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="15904767830"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="15904767830"/>
+         <source file="..\obj\syscalls.o" lastModified="15904767830"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="15904768000"/>
+      </target>
+   </processor>
+</history>
