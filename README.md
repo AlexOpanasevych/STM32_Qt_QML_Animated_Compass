@@ -6,7 +6,7 @@
 1. Connect modules as shown on "Connection.png"
 2. Flash firmware into MCU
 3. Run "Qt Project/Linux AMD64 Binary/Compass" and press "Connect" button
-4. Animated arrow will show north while holding compas module horizontally
+4. ssss
 
 - In video I use my own built HMC5883L module (OSHPark.com printed PCB, ICs bought on Aliexpress.com), you can use any
 - PC Binaries built for Linux AMD64 but you can build it for any other platform with QtCreator
