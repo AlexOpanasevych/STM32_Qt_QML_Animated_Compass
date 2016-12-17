@@ -9,6 +9,7 @@
 4. Animated arrow will show north while holding compas module horizontally
 
 :grey_exclamation:In video I use my own built HMC5883L module (OSHPark.com printed PCB, ICs bought on Aliexpress.com), you can use any
+
 :grey_exclamation:PC Binaries built for Linux AMD64 but you can build it for any other platform with QtCreator
 
 ###Project demo Video/Photo
